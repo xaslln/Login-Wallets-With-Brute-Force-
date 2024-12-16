@@ -13,3 +13,6 @@ Featuring a modern interface, users can log in with their key and allow the AI-p
 Warning: Equipped with advanced counter and countdown controls, the program offers high-level security against cracking attempts. Users who attempt to tamper with the software without authorization may face severe consequences :)
 
 To Purchase a Monthly Key: Contact Teleqram @xaslln
+
+<img src="Iol.png" alt="Büyük Fotoğraf" width="100%">
+
